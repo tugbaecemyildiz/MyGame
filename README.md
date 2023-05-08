@@ -1,2 +1,2 @@
-# MyGame
+# eternityGum Game
  eternityGum
